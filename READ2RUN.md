@@ -1,3 +1,5 @@
+## How to run the go-storyteller app
+
 As already mentioned on the README, the app looks and behaves like a desktop program, but actually runs on a local server and opens the computer default browser to use it as its Graphical User Interface (GUI).
 
 In practice this means that in order to run it needs to start a local server on a preassigned port - and that should be shown on a command line window (on Windows) or on a terminal window (on Linux) that opens before the browser window when you click or double click on the executable file (storyteller/storyteller.exe).
