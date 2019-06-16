@@ -18,7 +18,7 @@ So, the right way to start the application next time would be from the command l
 
 Open the folder where you have 2 files of the app that you downloaded previously and:
 
-- On Windows: Put the mouse cursor anywhere on the empty space, click the right button with the Shift key pressed and choose from the shown menu the option "open command line here"; open the cmd window, type (where the cursor is blinking) storyteller.exe and wait until the browser opens; (Be aware that closing the cmd window will stop the execution of both the program and the server.)
+- On Windows: Put the mouse cursor anywhere on the empty space, click the right button with the Shift key pressed and choose from the shown menu the option "open command line here"; on the cmd window type (where the cursor is blinking) storyteller.exe and wait until the browser opens; (Be aware that closing the cmd window will stop the execution of both the program and the server.)
 - On Linux: Right click anywhere on the empty space and the shown menu will have immediately the option "open terminal"; open the terminal, type ./storyteller and wait for the browser to open.
 
 (1) On Windows: Right click on the Taskbar -> Open the Task Manager -> Click on the tab Processes -> Select the line starting with storyteller.exe and click the stop button on the right-down.<br>
