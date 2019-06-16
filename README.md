@@ -11,7 +11,7 @@ It looks and behaves like a desktop application, but actually runs like a web ap
 ![story - sm](https://github.com/manuelcaeiro/go-storyteller/blob/master/screenshots/story_sm.png)
 
 # How to test it
-If you have golang installed on your computer and know how to run a .go file (and you happen to not have a JSON file with a CYOA story at hand) just download [gideon.json](https://github.com/manuelcaeiro/go-storyteller/blob/master/gideon.json) (1) and [story.go](https://github.com/manuelcaeiro/go-storyteller/blob/master/story.go) onto the same directory, and run it or build your own executable.
+If you have golang installed on your computer and know how to run a .go file (and you happen to not have a JSON file with a CYOA story at hand) just download the files gideon.json (1) and story.go onto the same directory, and run it or build your own executable.
 
 Else, you can download an executable file suitable for your OS from [here](https://github.com/manuelcaeiro/go-storyteller/tree/master/downloads)...
 
@@ -19,9 +19,9 @@ Else, you can download an executable file suitable for your OS from [here](https
 - storyteller\_ubu for Ubuntu/Mint Linux since version 16.04/18.3
 - storyteller\_deb for Debian Linux since version 9 (or any Debian 9 & up based distro)
 
-... and the file [gideon.json](https://github.com/manuelcaeiro/go-storyteller/blob/master/gideon.json) (1) to an empty folder and follow the instructions on the [READ2RUN.md]() file.
+... and the file gideon.json (1) to an empty folder and follow the instructions on the [READ2RUN.md]() file.
 
-(1) which contains a sample story
+(1) which contains a sample story; right click over the name of the file on the repository above and choose Save link as...
 
 ![story - ie](https://github.com/manuelcaeiro/go-storyteller/blob/master/screenshots/story_ie.JPG)
 
