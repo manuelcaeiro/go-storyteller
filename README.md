@@ -31,3 +31,6 @@ Copyright [2019] [J. Manuel Caeiro D. P.]
 The code in this repository is under the _MIT License_. You may obtain a copy of the _MIT License_ [here](https://opensource.org/licenses/MIT)
 
 The story in the JSON file has the same copyright and is under the _Creative Commons License_ [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+# TO-DO
+- Upon request (plus a suitable donation): Add a first page that displays a choice list between several (when available) stories.
