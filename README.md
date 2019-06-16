@@ -19,7 +19,7 @@ Else, you can download an executable file suitable for your OS from [here](https
 - storyteller\_ubu for Ubuntu/Mint Linux since version 16.04/18.3
 - storyteller\_deb for Debian Linux since version 9 (or any Debian 9 & up based distro)
 
-... and the file gideon.json (1) to an empty folder and follow the instructions on the [READ2RUN.md]() file.
+... and the file gideon.json (1) to an empty folder and follow the instructions on the [READ2RUN.md](https://github.com/manuelcaeiro/go-storyteller/blob/master/READ2RUN.md) file.
 
 (1) which contains a sample story; right click over the name of the file on the repository above and choose Save link as...
 
